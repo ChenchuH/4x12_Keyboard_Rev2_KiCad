@@ -1,0 +1,30 @@
+# KiCad backups and local history (KiCad 9+)
+*-backups/
+.history/
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.kicad_sch-bak
+
+# Temporary, autosave, and lock files
+~*.lck
+_autosave-*
+#auto_saved_files#
+*.tmp
+*.000
+*~
+
+# Local workspace settings and caches
+*.kicad_prl
+fp-info-cache
+*-cache*
+
+# Auto-generated intermediate files
+*.net
+*.erc
+*.dsn
+*.ses
+
+# OS metadata
+.DS_Store
+Thumbs.db
