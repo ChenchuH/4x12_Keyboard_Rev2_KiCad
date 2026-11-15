@@ -1,7 +1,8 @@
 # 4x12_Keyboard_Rev2_KiCad
 4x12 Ortholinear Keeb with RP2040
 
-
+![4x12 Keyboard PCB Top](images/output_top.svg)
+![4x12 Keyboard PCB BRM](images/output_btm.svg)
 ## Bill of Materials
 
 | Reference(s) | Qty | Value | Footprint |
