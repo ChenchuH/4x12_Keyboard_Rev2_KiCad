@@ -17,3 +17,5 @@
 | R3 | 1 | 330 | `Resistor_SMD:R_0805_2012Metric` |
 | SW1–SW48 | 48 | SW_Push | `Keyboardparts:SW_Cherry_MX_1.00u_PCB_NoSilkScreen` |
 | U1 | 1 | XIAO-RP2040-Plus-SMD | `Seeed_XIAO:XIAO-RP2040-Plus-SMD` |
+
+### 5 PCBs cost roughly $60 USD from JLPCB, be sure to get a stencil as well for SMD diodes, 48 will get tedious and difficult even in the 0805 package. 
